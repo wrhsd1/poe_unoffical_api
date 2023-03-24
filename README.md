@@ -1,3 +1,6 @@
+# if you are chinese, scaning the QR image 
+![IMG_3800](https://user-images.githubusercontent.com/13929427/228984921-37205e95-c6bd-47fa-a919-41f086b10a00.jpeg)
+
 # Using POE Unofficial API
 
 ## demo SSE [READ SSE README.md](https://github.com/isxuelinme/poe_unoffical_api/blob/main/client/sse/README.md)
